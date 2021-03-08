@@ -19,6 +19,7 @@
     "imagemin-mozjpeg": "^9.0.0",
     "next": "10.0.8",
     "next-optimized-images": "^3.0.0-canary.10",
+    "next-seo": "^4.20.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "responsive-loader": "^2.3.0",
